@@ -1,0 +1,21 @@
+feature_group,concept,candidate_stems,selected_stem,selected_measure_type,selected_column,available
+core_health,insurance_or_access,ACCESS2,ACCESS2,CrudePrev,ACCESS2_CrudePrev,True
+core_health,routine_checkup,CHECKUP,CHECKUP,CrudePrev,CHECKUP_CrudePrev,True
+core_health,high_blood_pressure,BPHIGH,BPHIGH,CrudePrev,BPHIGH_CrudePrev,True
+core_health,asthma,CASTHMA,CASTHMA,CrudePrev,CASTHMA_CrudePrev,True
+core_health,coronary_heart_disease,CHD,CHD,CrudePrev,CHD_CrudePrev,True
+core_health,copd,COPD,COPD,CrudePrev,COPD_CrudePrev,True
+core_health,diabetes,DIABETES,DIABETES,CrudePrev,DIABETES_CrudePrev,True
+core_health,smoking,CSMOKING,CSMOKING,CrudePrev,CSMOKING_CrudePrev,True
+core_health,physical_inactivity,LPA,LPA,CrudePrev,LPA_CrudePrev,True
+core_health,obesity,OBESITY,OBESITY,CrudePrev,OBESITY_CrudePrev,True
+core_health,poor_mental_health,MHLTH,MHLTH,CrudePrev,MHLTH_CrudePrev,True
+core_health,poor_physical_health,PHLTH,PHLTH,CrudePrev,PHLTH_CrudePrev,True
+core_health,fair_or_poor_general_health,GHLTH,GHLTH,CrudePrev,GHLTH_CrudePrev,True
+core_health,insufficient_sleep,SLEEP,SLEEP,CrudePrev,SLEEP_CrudePrev,True
+core_health,stroke,STROKE,STROKE,CrudePrev,STROKE_CrudePrev,True
+core_health,teeth_lost,TEETHLOST,TEETHLOST,CrudePrev,TEETHLOST_CrudePrev,True
+context,food_or_material_stress,"FOODSTAMP, FOODINSECU",FOODSTAMP,CrudePrev,FOODSTAMP_CrudePrev,True
+context,housing_or_utility_stress,"HOUSINSECU, SHUTUTILITY",HOUSINSECU,CrudePrev,HOUSINSECU_CrudePrev,True
+context,transport_barrier,LACKTRPT,LACKTRPT,CrudePrev,LACKTRPT_CrudePrev,True
+context,social_support,"EMOTIONSPT, LONELINESS",EMOTIONSPT,CrudePrev,EMOTIONSPT_CrudePrev,True
