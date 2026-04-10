@@ -1,0 +1,2 @@
+algorithm,n_clusters,silhouette,davies_bouldin,calinski_harabasz,noise_pct,min_cluster_size,max_cluster_size,balance_ratio,params
+DBSCAN,2,0.5902587131475816,0.30585525063075136,55.646423412451945,2.4554941682013505,5,3173,0.001575795776867318,"eps=1.0, min_samples=5"

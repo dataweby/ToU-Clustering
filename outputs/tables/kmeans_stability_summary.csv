@@ -1,0 +1,2 @@
+k,n_runs,mean_pairwise_ari_full_runs,min_pairwise_ari_full_runs,mean_subsample_ari_vs_reference,min_subsample_ari_vs_reference,silhouette_mean_across_runs,silhouette_std_across_runs,dbi_mean_across_runs,dbi_std_across_runs
+4,20,1.0,1.0,0.979,0.961,0.399,0.0,0.878,0.0
