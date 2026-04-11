@@ -1,2 +1,0 @@
-algorithm,n_clusters,silhouette,davies_bouldin,calinski_harabasz,noise_pct,min_cluster_size,max_cluster_size,balance_ratio,params
-KMeans transfer from IL to IN,4,0.3467524559937722,0.8943980419603984,1129.208188631595,0.0,82,1120,0.07321428571428572,"trained_on=IL, predicted_on=IN"
